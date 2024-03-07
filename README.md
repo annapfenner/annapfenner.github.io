@@ -9,9 +9,9 @@
 
 ### Detecting West Nile Virus Using Classifiers
 
-* [Data Wrangling](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Capstone%20Project%202%20-%20Data%20Wrangling.ipynb)
-* [EDA](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202%20-%20EDA.ipynb)
-* [Modeling](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202-%20Pre-processing%2C%20Training%20%26%20Modeling.ipynb)
+* [Data Wrangling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Capstone%20Project%202%20-%20Data%20Wrangling.ipynb)
+* [EDA Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202%20-%20EDA.ipynb)
+* [Modeling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202-%20Pre-processing%2C%20Training%20%26%20Modeling.ipynb)
 * Summary: Leveraging weather and trap data alongside engineered features, to predict the presence of West Nile virus (WNv) in the city of Chicago using XGBoostClassifier. With an AUC score of 0.8417, the model showcased significant predictive capability. Additionally, insights into optimal conditions for mosquito transmission were extracted using the SHAP package, contributing to enhanced understanding and proactive management of WNv transmission.
 
 ### Sentiment Analysis on Amazon Reviews Using NLP and Logistic Regression
