@@ -29,7 +29,7 @@
 * [Project Notebook](https://github.com/annapfenner/Projects/blob/main/Fraud%20Detection.ipynb)
 * Summary: Both logistic regression and random forest classifiers achieved an AUC score of 1 on the precision-recall graph. These results signify the effectiveness of the models in identifying fraudulent transactions while minimizing false positives.
 
-### Student Performance
+### Predicting Student's Math Score Using Linear Regression and XGBoost
 
 * [Project Notebook](https://github.com/annapfenner/Projects/blob/main/student_performance.ipynb)
 * Summary: The project focused on predicting students' math scores using a combination of categorical variables (such as parental education and lunch type) and reading & writing scores. Leveraging the linear regression algorithm, our model attained superior predictive performance, with an MSE score of 27.107 and an R² value of 0.8808, demonstrating its efficacy in capturing the underlying relationships within the data.
