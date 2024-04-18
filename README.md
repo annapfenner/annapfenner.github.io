@@ -24,3 +24,12 @@
 * [Project Notebook](https://github.com/annapfenner/Projects/blob/main/Customer%20Personality%20Analysis%20.ipynb)
 * Summary: This project employs clustering algorithms like k-means and DBSCAN to segment customers based on demographic and spending attributes. The project yielded a k-means Silhouette Score of 0.3614 and a Calinski-Harabasz Index of 2845.15, while DBSCAN showed suboptimal performance. 
 
+### Fraud Detection Using SMOTEENN & Classification
+
+* [Project Notebook](https://github.com/annapfenner/Projects/blob/main/Fraud%20Detection.ipynb)
+* Summary: Both logistic regression and random forest classifiers achieved an AUC score of 1 on the precision-recall graph. These results signify the effectiveness of the models in identifying fraudulent transactions while minimizing false positives.
+
+### Student Performance
+
+* [Project Notebook](https://github.com/annapfenner/Projects/blob/main/student_performance.ipynb)
+* Summary: The project focused on predicting students' math scores using a combination of categorical variables (such as parental education and lunch type) and reading & writing scores. Leveraging the linear regression algorithm, our model attained superior predictive performance, with an MSE score of 27.107 and an R² value of 0.8808, demonstrating its efficacy in capturing the underlying relationships within the data.
