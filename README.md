@@ -12,7 +12,7 @@
 
 
 ### Detecting West Nile Virus Using Classifiers
-![Project Image](wnvirus)
+![Project Image](wnvirus.jpeg)
 * [Data Wrangling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Capstone%20Project%202%20-%20Data%20Wrangling.ipynb)
 * [EDA Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202%20-%20EDA.ipynb)
 * [Modeling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202-%20Pre-processing%2C%20Training%20%26%20Modeling.ipynb)
