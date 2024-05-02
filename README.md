@@ -15,7 +15,7 @@
 * Summary: Leveraging weather and trap data alongside engineered features, to predict the presence of West Nile virus (WNv) in the city of Chicago using XGBoostClassifier. With an AUC score of 0.8417, the model showcased significant predictive capability. Additionally, insights into optimal conditions for mosquito transmission were extracted using the SHAP package, contributing to enhanced understanding and proactive management of WNv transmission.
 
 ### Sentiment Analysis on Amazon Reviews Using NLP and Logistic Regression
-![Project Image](sentiment_analysis.jpg)
+![Project Image](sentiment_analysis.jpeg)
 * [Project Notebook](https://github.com/annapfenner/src/blob/main/Sentiment_Analysis.ipynb)
 * **Why:** A 4.2-star review rating on Amazon might seem like a seal of approval, especially when accompanied by a handful of positive reviews. However, relying solely on these metrics can sometimes lead to disappointment. That's where Natural Language Processing (NLP) comes in. By analyzing the sentiment of all reviews for a product, NLP can help uncover any discrepancies or potentially fake reviews, providing a more comprehensive understanding of customer satisfaction. With NLP, we can ensure that our purchasing decisions are based on genuine feedback, making for a more informed shopping experience.
 
