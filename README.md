@@ -13,11 +13,8 @@
 
 ### Detecting West Nile Virus Using Classifiers
 ![Project Image](wnvirus.jpeg)
-* [Final Report](https://github.com/annapfenner/Predicting-the-West-Nile-virus/blob/main/Final%20Report%20.pdf)
-* [Slide Deck](https://github.com/annapfenner/Predicting-the-West-Nile-virus/blob/main/Final%20Report%20.pdf)
-* [Data Wrangling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Capstone%20Project%202%20-%20Data%20Wrangling.ipynb)
-* [EDA Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202%20-%20EDA.ipynb)
-* [Modeling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202-%20Pre-processing%2C%20Training%20%26%20Modeling.ipynb)
+* [Final Report](https://github.com/annapfenner/Predicting-the-West-Nile-virus/blob/main/Final%20Report%20.pdf) | [Slide Deck](https://github.com/annapfenner/Predicting-the-West-Nile-virus/blob/main/Final%20Report%20.pdf)
+* [Data Wrangling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Capstone%20Project%202%20-%20Data%20Wrangling.ipynb) | [EDA Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202%20-%20EDA.ipynb) | [Modeling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202-%20Pre-processing%2C%20Training%20%26%20Modeling.ipynb)
 
 * **Why:** After witnessing firsthand the devastating impact of vector-borne diseases on communities during travels abroad to the Dominican Republic and Gabon, I was motivated to contribute to the prevention and management of such diseases.
 
