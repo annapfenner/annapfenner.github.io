@@ -2,7 +2,7 @@
 
 ## Projects
 
-### Detecting Breast Cancer Using CNN
+### Project: Detecting Breast Cancer Using CNN
 
 * [Project Notebook](https://github.com/annapfenner/Springboard/blob/main/Breast_Cancer_Capstone_Project/Breast_Cancer_Capstone_Project.ipynb)
 * Summary: Delving into breast histopathology images, this project harnessed the power of a Kaggle dataset, featuring 277,524 50x50 pixel patches. Through extensive model exploration, a simple CNN architecture emerged as the top performer, achieving an impressive accuracy of 83.36% and an AUC score of 0.915 in detecting IDC-positive and IDC-negative images.
@@ -17,15 +17,16 @@
 ### Sentiment Analysis on Amazon Reviews Using NLP and Logistic Regression
 ![Project Image](sentiment_analysis.jpeg)
 * [Project Notebook](https://github.com/annapfenner/src/blob/main/Sentiment_Analysis.ipynb)
-* **Why:** A 4.2-star review rating on Amazon might seem like a seal of approval, especially when accompanied by a handful of positive reviews. However, relying solely on these metrics can sometimes lead to disappointment. That's where Natural Language Processing (NLP) comes in. By analyzing the sentiment of all reviews for a product, NLP can help uncover any discrepancies or potentially fake reviews, providing a more comprehensive understanding of customer satisfaction. With NLP, we can ensure that our purchasing decisions are based on genuine feedback, making for a more informed shopping experience.
+* **Why:** A 4.2-star review rating on Amazon might seem like a seal of approval, especially when accompanied by a handful of positive reviews. However, relying solely on these metrics can sometimes lead to disappointment. That's where Natural Language Processing (NLP) comes in. By analyzing the sentiment of reviews for products, NLP can help uncover any discrepancies or potentially fake reviews, providing a more comprehensive understanding of customer satisfaction. With NLP, we can ensure that our purchasing decisions are based on genuine feedback, making for a more informed shopping experience.
 
-That's why I was eager to delve into this 4 million Amazon review dataset and conduct sentiment analysis on it.
 * **Summary:** In this project, sentiment analysis was conducted on a dataset of 4 million Amazon reviews using logistic regression. Achieving a precision score of 0.8856. Future steps include investigating alternative models like Random Forest and LSTM neural networks.
 
 ### Customer Segmentation Using Clustering Algorithms
-
+![Project Image](customer segmentation.jpeg)
 * [Project Notebook](https://github.com/annapfenner/Projects/blob/main/Customer%20Personality%20Analysis%20.ipynb)
-* Summary: This project employs clustering algorithms like k-means and DBSCAN to segment customers based on demographic and spending attributes. The project yielded a k-means Silhouette Score of 0.3614 and a Calinski-Harabasz Index of 2845.15, while DBSCAN showed suboptimal performance. 
+* **Why:** Harnessing the power of customer data, I delve into key factors like age, education, income, marital status, and spending habits. By employing advanced clustering algorithms, I've unearthed three distinct customer segments, enabling the development of highly targeted marketing strategies and fostering a deeper understanding of our company's customer base.
+
+* Summary: This project employs two clustering algorithms, k-means and DBSCAN, to segment customers based on demographic and spending attributes. Through, the k-means model three distinct customer groups emerged. The k-means model showed the best results with a silhouette score of 0.3614 and a Calinski-Harabasz Index of 2845.15. 
 
 ### Fraud Detection Using SMOTEENN & Classification
 
