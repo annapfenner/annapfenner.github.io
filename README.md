@@ -41,7 +41,7 @@
 ### Project 5: Detecting Breast Cancer Using CNN
 <img src="breast.jpeg" alt="Project Image" width="200" height="200">
 
-* [Project Notebook](https://github.com/annapfenner/Springboard/blob/main/Breast_Cancer_Capstone_Project/ Breast_Cancer_Capstone_Project.ipynb) 
+* [Project Notebook](https://github.com/annapfenner/Springboard/blob/main/Breast_Cancer_Capstone_Project/Breast_Cancer_Capstone_Project.ipynb) 
 
 * **Why:** The motivation behind this project stems from a deeply personal experience. A close friend of mine was diagnosed with stage IV cancer at a young age, highlighting the critical importance of early detection. With breast cancer being a prevalent concern, affecting approximately one in eight women in the US, it's imperative to leverage advanced technology to enhance detection methods. Utilizing Convolutional Neural Networks (CNN), which have shown remarkable accuracy in detecting breast cancer, is crucial in our ongoing efforts to save lives through early intervention and timely treatment.
 
