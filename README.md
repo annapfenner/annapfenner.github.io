@@ -4,7 +4,7 @@
 
 ### Project: Detecting Breast Cancer Using CNN
 <img src="breast.jpeg" alt="Project Image" width="200" height="200">
-* [Project Notebook](https://github.com/annapfenner/Springboard/blob/main/Breast_Cancer_Capstone_Project/ Breast_Cancer_Capstone_Project.ipynb) | [Project Slide Deck]()
+* [Project Notebook](https://github.com/annapfenner/Springboard/blob/main/Breast_Cancer_Capstone_Project/ Breast_Cancer_Capstone_Project.ipynb) 
 * [](https://github.com/annapfenner/Springboard/blob/main/Breast_Cancer_Capstone_Project/Breast_Cancer_Capstone_Project.ipynb)
 * **Why:** The motivation behind this project stems from a deeply personal experience. A close friend of mine was diagnosed with stage IV cancer at a young age, highlighting the critical importance of early detection. With breast cancer being a prevalent concern, affecting approximately one in eight women in the US, it's imperative to leverage advanced technology to enhance detection methods. Utilizing Convolutional Neural Networks (CNN), which have shown remarkable accuracy in detecting breast cancer, is crucial in our ongoing efforts to save lives through early intervention and timely treatment.
 
@@ -12,7 +12,7 @@
 
 
 ### Detecting West Nile Virus Using Classifiers
-<img src="wnvirus.jpeg" alt="Project Image" width="200" height="200">
+<img src="wnvirus.jpeg" alt="Project Image" width="400" height="200">
 * [Final Report](https://github.com/annapfenner/Predicting-the-West-Nile-virus/blob/main/Final%20Report%20.pdf) | [Slide Deck](https://github.com/annapfenner/Predicting-the-West-Nile-virus/blob/main/Final%20Report%20.pdf)
 * [Data Wrangling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Capstone%20Project%202%20-%20Data%20Wrangling.ipynb) | [EDA Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202%20-%20EDA.ipynb) | [Modeling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202-%20Pre-processing%2C%20Training%20%26%20Modeling.ipynb)
 
@@ -22,7 +22,8 @@
 
 ### Sentiment Analysis on Amazon Reviews Using NLP and Logistic Regression
 ![Project Image](sentiment_analysis.jpeg)
-<img src="sentiment_analysis.jpeg" alt="Project Image" width="200" height="200">
+<img src="sentiment_analysis.jpeg" alt="Project Image" width="600" height="300">
+<img src="sentiment_analysis.jpeg" alt="Project Image" width="500" height="250">
 * [Project Notebook](https://github.com/annapfenner/src/blob/main/Sentiment_Analysis.ipynb)
 * **Why:** A 4.2-star review rating on Amazon might seem like a seal of approval, especially when accompanied by a handful of positive reviews. However, relying solely on these metrics can sometimes lead to disappointment. That's where Natural Language Processing (NLP) comes in. By analyzing the sentiment of reviews for products, NLP can help uncover any discrepancies or potentially fake reviews, providing a more comprehensive understanding of customer satisfaction. With NLP, we can ensure that our purchasing decisions are based on genuine feedback, making for a more informed shopping experience.
 
@@ -30,6 +31,7 @@
 
 ### Project 4: Unveiling Customer Diversity
 ![Project Image](customer_segmentation.jpeg)
+<img src="customer_segmentation.jpeg" alt="Project Image" width="400" height="200">
 * [Project Notebook](https://github.com/annapfenner/Projects/blob/main/Customer%20Personality%20Analysis%20.ipynb)
 
 **Why:** Utilizing clustering algorithms to group customers is essential for companies seeking to understand their customer base. This approach enables precision-targeted marketing and identifies growth opportunities within each customer segment.
@@ -39,6 +41,7 @@
 
 ### Credit Card Fraud
 ![Project Image](fraud.jpeg)
+<img src="fraud.jpeg" alt="Project Image" width="400" height="200">
 * [Project Notebook](https://github.com/annapfenner/Projects/blob/main/Fraud%20Detection.ipynb)
 
 * **Why:** Identifying fraudulent transactions is crucial for financial institutions to safeguard their customers and maintain trust in the banking system. Utilizing advanced machine learning techniques allows for the timely detection of fraudulent activity, minimizing potential losses and protecting against financial fraud.
