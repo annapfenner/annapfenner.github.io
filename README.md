@@ -5,11 +5,13 @@
 ### Project 1: Unveiling Customer Diversity
 ![Project Image](customer_segmentation.jpeg)
 
+* [Project Report](https://github.com/annapfenner/Projects/blob/main/Unveiling%20Customer%20Diversity.pdf)
+
 * [Project Notebook](https://github.com/annapfenner/Projects/blob/main/Customer%20Personality%20Analysis%20.ipynb)
 
 **Why:** Utilizing clustering algorithms to group customers is essential for companies seeking to understand their customer base. This approach enables precision-targeted marketing and identifies growth opportunities within each customer segment.
 
-**Summary:** This project utilizes k-means and DBSCAN clustering algorithms to segment customers based on demographic and spending attributes. The k-means model revealed three distinct customer groups, achieving superior performance with a silhouette score of 0.3614 and a Calinski-Harabasz Index of 2845.15. By leveraging these insights, highly targeted marketing strategies can be developed to cater to the diverse needs of our customer base.
+**Summary:** This project employed k-means clustering to categorize customers into three distinct groups, aiding in the creation of personalized marketing approaches. Notably, one group emerged as the top spender, especially on wine, despite having only a slightly higher income than the next highest bracket. Further investigation may delve into item co-purchases and cost breakdowns per bottle per group, revealing valuable insights for refined marketing strategies.
 
 ### Project 2: Predicting Student's Math Score Using Linear Regression 
 ![Project Image](math.jpeg)
