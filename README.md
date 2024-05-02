@@ -12,7 +12,7 @@
 
 
 ### Detecting West Nile Virus Using Classifiers
-![Project Image](wnvirus.jpeg)
+<img src="wnvirus.jpeg" alt="Project Image" width="200" height="200">
 * [Final Report](https://github.com/annapfenner/Predicting-the-West-Nile-virus/blob/main/Final%20Report%20.pdf) | [Slide Deck](https://github.com/annapfenner/Predicting-the-West-Nile-virus/blob/main/Final%20Report%20.pdf)
 * [Data Wrangling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Capstone%20Project%202%20-%20Data%20Wrangling.ipynb) | [EDA Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202%20-%20EDA.ipynb) | [Modeling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202-%20Pre-processing%2C%20Training%20%26%20Modeling.ipynb)
 
@@ -22,6 +22,7 @@
 
 ### Sentiment Analysis on Amazon Reviews Using NLP and Logistic Regression
 ![Project Image](sentiment_analysis.jpeg)
+<img src="sentiment_analysis.jpeg" alt="Project Image" width="200" height="200">
 * [Project Notebook](https://github.com/annapfenner/src/blob/main/Sentiment_Analysis.ipynb)
 * **Why:** A 4.2-star review rating on Amazon might seem like a seal of approval, especially when accompanied by a handful of positive reviews. However, relying solely on these metrics can sometimes lead to disappointment. That's where Natural Language Processing (NLP) comes in. By analyzing the sentiment of reviews for products, NLP can help uncover any discrepancies or potentially fake reviews, providing a more comprehensive understanding of customer satisfaction. With NLP, we can ensure that our purchasing decisions are based on genuine feedback, making for a more informed shopping experience.
 
