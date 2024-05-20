@@ -34,6 +34,8 @@
 ### Project 4: Sentiment Analysis on Amazon Reviews Using NLP and Logistic Regression
 <img src="sentiment_analysis.jpeg" alt="Project Image" width="500" height="250">
 
+* [Project Report](https://github.com/annapfenner/Projects/blob/main/Sentiment%20Analysis%20of%20Amazon%20Reviews.pdf)
+
 * [Project Notebook](https://github.com/annapfenner/src/blob/main/Sentiment_Analysis.ipynb)
 * **Why:** A 4.2-star review rating on Amazon might seem like a seal of approval, especially when accompanied by a handful of positive reviews. However, relying solely on these metrics can sometimes lead to disappointment. That's where Natural Language Processing (NLP) comes in. By analyzing the sentiment of reviews for products, NLP can help uncover any discrepancies or potentially fake reviews, providing a more comprehensive understanding of customer satisfaction. With NLP, we can ensure that our purchasing decisions are based on genuine feedback, making for a more informed shopping experience.
 
