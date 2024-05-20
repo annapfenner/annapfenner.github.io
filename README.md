@@ -24,16 +24,12 @@
 ### Project 3: Detecting West Nile Virus Using Classifiers
 <img src="wnvirus.jpeg" alt="Project Image" width="350" height="200">
 
-* [Final Report](https://github.com/annapfenner/Predicting-the-West-Nile-virus/blob/main/Final%20Report%20.pdf) 
-* [Slide Deck](https://github.com/annapfenner/Predicting-the-West-Nile-virus/blob/main/Final%20Report%20.pdf)
+* [Final Report](https://github.com/annapfenner/Predicting-the-West-Nile-virus/blob/main/Final%20Report%20.pdf) | [Slide Deck](https://github.com/annapfenner/Predicting-the-West-Nile-virus/blob/main/Final%20Report%20.pdf)
 
 * [Data Wrangling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Capstone%20Project%202%20-%20Data%20Wrangling.ipynb) | [EDA Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202%20-%20EDA.ipynb) | [Modeling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202-%20Pre-processing%2C%20Training%20%26%20Modeling.ipynb)
 
 
-* [Data Wrangling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Capstone%20Project%202%20-%20Data%20Wrangling.ipynb) | [EDA Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202%20-%20EDA.ipynb) | [Modeling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202-%20Pre-processing%2C%20Training%20%26%20Modeling.ipynb)
-
-* [Data Wrangling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Capstone%20Project%202%20-%20Data%20Wrangling.ipynb) | [EDA Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202%20-%20EDA.ipynb) | [Modeling Notebook](https://github.com/annapfenner/capstone-project-2/blob/main/Jupyter%20Notebooks/Project%202-%20Pre-processing%2C%20Training%20%26%20Modeling.ipynb)
-
+*
 * **Why:** After witnessing firsthand the devastating impact of vector-borne diseases on communities during travels abroad to the Dominican Republic and Gabon, I was motivated to contribute to the prevention and management of such diseases.
 
 * **Summary:** This project utilized weather and trap data, alongside engineered features, to predict the presence of West Nile virus (WNv) in Chicago using the XGBoostClassifier. Achieving an impressive AUC score of 0.8417, the model demonstrated significant predictive capability. Furthermore, insights into optimal conditions for mosquito transmission were extracted using the SHAP package, enhancing understanding and proactive management of WNv transmission.
